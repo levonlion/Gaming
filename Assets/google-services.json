@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745176912092",
+    "project_id": "gaming-homework-1",
+    "storage_bucket": "gaming-homework-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745176912092:android:dded4e8a9d19f3e3966419",
+        "android_client_info": {
+          "package_name": "com.LevonLion.Gaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745176912092-6r8t6g361cmphaia79s52rqgjeiro3nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHDXeUl0j-uga7lrLz8m6mJBAcdFH4tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745176912092-6r8t6g361cmphaia79s52rqgjeiro3nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

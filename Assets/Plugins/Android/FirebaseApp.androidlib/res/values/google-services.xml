@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">745176912092</string>
+  <string name="google_storage_bucket" translatable="false">gaming-homework-1.appspot.com</string>
+  <string name="project_id" translatable="false">gaming-homework-1</string>
+  <string name="google_api_key" translatable="false">AIzaSyDsHDXeUl0j-uga7lrLz8m6mJBAcdFH4tA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsHDXeUl0j-uga7lrLz8m6mJBAcdFH4tA</string>
+  <string name="google_app_id" translatable="false">1:745176912092:android:dded4e8a9d19f3e3966419</string>
+  <string name="default_web_client_id" translatable="false">745176912092-6r8t6g361cmphaia79s52rqgjeiro3nn.apps.googleusercontent.com</string>
+</resources>
